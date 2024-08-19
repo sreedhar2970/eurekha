@@ -10,6 +10,7 @@ public class EurekhaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekhaApplication.class, args);
+              system.out.println("git practice");
 	}
 
 }
